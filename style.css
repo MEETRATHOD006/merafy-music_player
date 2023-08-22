@@ -294,8 +294,7 @@ input[type=search]::-webkit-search-results-decoration{
 }
 
 #song-info {
-    width: 100%;
-    padding: 15px;
+    width: 345px;
 }
 
 #playback-controls i:hover {
